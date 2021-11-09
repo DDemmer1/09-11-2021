@@ -8,7 +8,7 @@ public class Application {
 				// und das Ergebnis von a geteilt durch b gerade ist
 		
 
-				//Hier nichts ändern
+				//Hier nichts ï¿½ndern
 				int x = 5;
 				int y = 4;
 
@@ -16,10 +16,58 @@ public class Application {
 				int b = 2;
 				
 				
-				//Hier könnt ihr euren Ausdruck Eintragen
+				
+				//Hier kï¿½nnt ihr euren Ausdruck Eintragen
 				boolean bool =   ;
 
 				System.out.println("Der Ausdruck sollte true sein und ist : " + bool);
+				
+				
+				
+				//############################################
+		
+				
+				double preis = 1.99d;
+				
+				//wandelt den Preis in einen abgerundeten int wert um
+				int abgerundeterPreis = ;
+				
+				
+				//weist der Variablen "istAbgerundet" das Ergebnis des Vergleichs zwischen "abgerundeterPreis" und 1 zu
+				
+				boolean istAbgerundet = ;
+				
+				
+				System.out.println("Preis abgerundet: " + istAbgerundet);
+				
+				
+				
+				
+				//############################################
+				
+				
+
+				char c = 'A';
+				
+				
+				//wandelt den char c in seinen ASCII Wert um
+				
+				
+				
+				//############################################
+				
+				
+				
+				//Ãœberlegt euch warum man keinen String zu einem char casten kann
+				String s = "A";
+			
+				char gehtNicht = (char) s;
+				
+				
+				//############################################
+
+				
+				
 		
 	}
 
