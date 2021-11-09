@@ -12,16 +12,15 @@ public class Application {
 				int x = 5;
 				int y = 4;
 
-				int a = 4;
-				int b = 2;
+				int a = 9;
+				int b = 3;
 				
 				
 				
 				//Hier k�nnt ihr euren Ausdruck Eintragen
-				boolean bool =   ;
+				boolean bool =  x != y  &&  ((a / b) % 2 == 0);
 
 				System.out.println("Der Ausdruck sollte true sein und ist : " + bool);
-				
 				
 				
 				//############################################
@@ -30,41 +29,36 @@ public class Application {
 				double preis = 1.99d;
 				
 				//wandelt den Preis in einen abgerundeten int wert um
-				int abgerundeterPreis = ;
+				int abgerundeterPreis = (int) preis;
 				
 				
 				//weist der Variablen "istAbgerundet" das Ergebnis des Vergleichs zwischen "abgerundeterPreis" und 1 zu
 				
-				boolean istAbgerundet = ;
+				boolean istAbgerundet = abgerundeterPreis == 1;
 				
 				
 				System.out.println("Preis abgerundet: " + istAbgerundet);
 				
-				
-				
-				
-				//############################################
-				
-				
+//				//############################################
 
 				char c = 'A';
 				
+				int ascii = c;
+				
+				System.out.println(ascii);
 				
 				//wandelt den char c in seinen ASCII Wert um
 				
 				
-				
-				//############################################
-				
+//				//############################################		
 				
 				
 				//Überlegt euch warum man keinen String zu einem char casten kann
 				String s = "A";
 			
-				char gehtNicht = (char) s;
+				char gehtNicht = s.charAt(0);
 				
-				
-				//############################################
+//				//############################################
 
 				
 				
