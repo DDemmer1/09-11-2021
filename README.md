@@ -4,13 +4,13 @@
 
 ### 📝 Aufgabe:
 
-
+Diesmal gibt es ein kleines Logik-Rätsel. Ladet euch das Repository herunter und folgt den Anweisungen im Code.
 
 
 ### ℹ️ Resourcen:
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 
-- [📃 Java Instanzvariablen (Class Attributes) ](https://www.w3schools.com/java/java_class_attributes.asp)
-- [📃 Java static](https://javabeginners.de/Grundlagen/Modifikatoren/static.php)
+- [📃 Java Operators ](https://www.w3schools.com/java/java_operators.asp)
+- [📃 Java Wegeiser Operatoren](https://github.com/DH-Cologne/java-wegweiser/blob/master/articles/Operatoren.md)
 
